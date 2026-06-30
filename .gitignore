@@ -1,0 +1,23 @@
+# Object files
+*.o
+
+# Executables
+*.exe
+*.out
+top_sim
+sim
+
+# ELF and binary outputs
+*.elf
+*.bin
+
+# Simulation waveforms
+*.vcd
+
+# Temporary files
+*.swp
+*.tmp
+
+# Build files
+route.json
+pack.json
